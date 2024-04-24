@@ -1,0 +1,56 @@
+.widgetsWrapper {
+    margin: 0 0 3rem 0;
+
+    .ant-row {
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+
+        .ant-card {
+            margin: 0.5rem;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            border: 2px solid white;
+            transition: 0.2s all ease-in-out;
+
+            &:hover {
+                border: 2px solid #1677ff;
+            }
+
+            .ant-card-body {
+                display: flex;
+                justify-content: space-between;
+
+                .label {
+                    display: flex;
+                    flex-direction: column;
+                    font-size: 20px;
+
+                    h5 {
+                        margin: 0;
+                    }
+
+                    p {
+                        margin: 0;
+                    }
+                }
+
+                .icon {
+                    font-size: 30px;
+                    display: flex;
+                    align-items: center;
+                }
+
+            }
+        }
+    }
+}
+.splitGraphs {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
+
+}
+
+.boxShadowCard {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

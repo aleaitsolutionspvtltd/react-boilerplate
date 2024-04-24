@@ -1,0 +1,32 @@
+.mainWrapper {
+    height: 100%;
+    // min-height: 95vh;
+
+    .ant-layout {
+        height: 100%;
+        min-height: 90vh;
+
+        .ant-layout-sider {
+            width: 100% !important;
+            max-width: 250px !important;
+            min-width: 250px !important;
+
+            .ant-layout-sider-children {
+                // box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+                .ant-menu {
+                    border-radius: 10px;
+                    height: 100% !important;
+                }
+            }
+
+        }
+
+    }
+}
+
+body {
+    font-family: 'Open Sans' !important;
+    padding: 0;
+    margin: 0;
+}
