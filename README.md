@@ -14,16 +14,10 @@ Created with ❤️ by  <a href="https://www.aleaitsolutions.com/" target="_blan
 </p>
 <br />
 
-## Project Name & Pitch
-
-React Boilerplate: A Pre-Developed React Application
+## React Boilerplate: A Pre-Developed React Application
 
 This project offers a pre-developed React application with all the necessary packages pre-configured, providing a solid foundation for building dynamic and user-friendly web applications.
 
-
-## Project Status
-
-All required packages have been installed. Docker implementation is planned for the near future, along with the design of basic user pages.
 
 ## Features 
 
