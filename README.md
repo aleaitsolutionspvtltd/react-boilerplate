@@ -10,9 +10,8 @@ A highly scalable, offline-first foundation with the best DX and a focus on perf
 <br />
 
 <p align="center">
-Created with ❤️ by [ALea IT Solutions Pvt. Ltd](https://www.aleaitsolutions.com/). 
+Created with ❤️ by  <a href="https://www.aleaitsolutions.com/" target="_blank">Alea</a>. 
 </p>
-<br />
 <br />
 
 ## Project Name & Pitch
