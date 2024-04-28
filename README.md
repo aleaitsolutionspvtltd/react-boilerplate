@@ -44,27 +44,21 @@ It's natural to want to add pages (e.g. `/about`) to your application, and routi
 
 Ensure that Node.js is installed on your system.
 
-## Installation and Setup Instructions
+## Quick start
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.
+1. Make sure that you have Node.js v8.15.1 and npm v5 or above installed.
 
-`git clone git@github.com:aleaitsolution/react-boilerplate.git`
+2. Clone this repo using git clone --depth=1 git clone git@github.com:aleaitsolution/react-boilerplate.git <YOUR_PROJECT_NAME>
 
-Installation:
+3. Move to the appropriate directory: cd <YOUR_PROJECT_NAME>.
 
-`npm install`
+4. Run npm run setup in order to install dependencies and clean the git repo.
 
-To Run Test Suite:
+5. At this point you can run npm start to see the example app at http://localhost:3000.
 
-`npm test`
+6. Run npm run clean to delete the example app.
 
-To Start Server:
-
-`npm start`
-
-To Visit App:
-
-`localhost:3000/`
+7. Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
 #### Project Description:
 
