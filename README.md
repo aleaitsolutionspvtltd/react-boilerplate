@@ -2,12 +2,13 @@
 
 ![banner-metal-optimized](https://github.com/aleaitsolution/react-boilerplate/assets/104668786/de2b1947-844b-4860-991e-6b2a635028a7)
 
+<p align="center">
 Start your next react project in seconds
 <br />
 A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+</p>
 
-
-Created  with ❤️ by ALea IT Solutions Pvt. Ltd. 
+Created with ❤️ by [ALea IT Solutions Pvt. Ltd](https://www.aleaitsolutions.com/). 
 
 ## Project Name & Pitch
 
@@ -19,6 +20,27 @@ This project offers a pre-developed React application with all the necessary pac
 ## Project Status
 
 All required packages have been installed. Docker implementation is planned for the near future, along with the design of basic user pages.
+
+## Features 
+
+### Quick scaffolding
+Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!
+
+### Instant feedback
+Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the CSS and JS are reflected instantaneously without refreshing the page. Preserve application state even when you update something in the underlying code!
+
+### Predictable state management
+Unidirectional data flow allows for change logging and time travel debugging.
+
+### Next generation JavaScript
+Use template strings, object destructuring, arrow functions, JSX syntax and more.
+
+### Next generation CSS
+Write composable CSS that's co-located with your components for complete modularity. Unique generated class names keep the specificity low while eliminating style clashes. Ship only the styles that are on the page for the best performance.
+
+### Industry-standard routing
+It's natural to want to add pages (e.g. `/about`) to your application, and routing makes this possible.
+
 
 ## Prerequisite
 
