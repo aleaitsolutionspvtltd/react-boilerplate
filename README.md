@@ -1,8 +1,20 @@
+
+
+![banner-metal-optimized](https://github.com/aleaitsolution/react-boilerplate/assets/104668786/de2b1947-844b-4860-991e-6b2a635028a7)
+
+Start your next react project in seconds
+<br />
+A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+
+
+Created  with ❤️ by ALea IT Solutions Pvt. Ltd. 
+
 ## Project Name & Pitch
 
 React Boilerplate: A Pre-Developed React Application
 
 This project offers a pre-developed React application with all the necessary packages pre-configured, providing a solid foundation for building dynamic and user-friendly web applications.
+
 
 ## Project Status
 
