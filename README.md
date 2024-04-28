@@ -48,15 +48,15 @@ Ensure that Node.js is installed on your system.
 
 1. Make sure that you have Node.js v8.15.1 and npm v5 or above installed.
 
-2. Clone this repo using git clone --depth=1 git clone git@github.com:aleaitsolution/react-boilerplate.git <YOUR_PROJECT_NAME>
+2. Clone this repo using git clone --depth=1 `git clone git@github.com:aleaitsolution/react-boilerplate.git <YOUR_PROJECT_NAME>` 
 
-3. Move to the appropriate directory: cd <YOUR_PROJECT_NAME>.
+3. Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>.` 
 
-4. Run npm run setup in order to install dependencies and clean the git repo.
+4. Run `npm run setup` in order to install dependencies and clean the git repo.
 
-5. At this point you can run npm start to see the example app at http://localhost:3000.
+5. At this point you can run `npm start` to see the example app at `http://localhost:3000`.
 
-6. Run npm run clean to delete the example app.
+6. Run `npm run clean` to delete the example app.
 
 7. Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
@@ -66,22 +66,13 @@ This project aims to streamline the process of setting up a basic React applicat
 
 List of Packages Included:
 
-1. React Router Dom
-
-2. Antd
-
-3. Bootstrap /React Bootstrap
-
-4. React Redux
-
-5. React Persist
-
-6. React Thunk
-
-7. SweetAlert
-
-8. Material UI
-
-9. Axios
-
-10. SCSS
+1. `React Router Dom`
+2. `Antd`
+3. `Bootstrap /React Bootstrap`
+4. `React Redux`
+5. `React Persist`
+6. `React Thunk`
+7. `SweetAlert`
+8. `Material UI`
+9. `Axios`
+10. `SCSS`
